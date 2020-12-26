@@ -1,1 +1,1 @@
-# Quantum-Computer-Simulator-homework
+# Quantum-Computer-Simulator-exercise
